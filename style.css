@@ -1,0 +1,41 @@
+
+.first-column{
+    text-align: center;
+}
+.first-class{
+    display: flex;
+    align-items:center;
+}
+h6{
+    color: gray;
+}
+.titre{
+    text-align: center;
+}
+.cart-total
+{
+    text-align: end;
+   margin:0px 283px;
+}
+.total-title{
+    font-size: 30px;
+}
+.total-price{
+    font-size: 25px; 
+}
+.mytitle{
+    display: flex;
+}
+#prix1{
+    width:55%;
+}
+#prix2{
+    width:55%;
+}
+#prix3{
+    width:55%;
+}
+#total-btn{
+ margin-left: 900px;  
+    
+}
